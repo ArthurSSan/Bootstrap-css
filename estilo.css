@@ -104,6 +104,10 @@ nav.navbar-transparente{
 	padding-left: 80px;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
 footer {
 	background: #000;
 	padding: 50px 0px 20px 0;
